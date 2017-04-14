@@ -27,7 +27,7 @@ INSERT INTO GD_MD
 	0,
 	0,
 	0,
-	'',
+	'4.1.17',
 	'Roverplus101::Hw Library::Arduino 101 Board::Arduino 101');
 INSERT INTO GD_GE
 	VALUES ("b7a70c82-16c6-4c1f-ac69-6e69f9647b28",
@@ -41,8 +41,8 @@ INSERT INTO GD_SHP
 INSERT INTO GD_CTR
 	VALUES ("b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
 INSERT INTO DIM_ND
-	VALUES (1161.000000,
-	443.000000,
+	VALUES (280.000000,
+	261.000000,
 	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
 INSERT INTO DIM_GE
 	VALUES (4100.000000,
@@ -55,7 +55,7 @@ INSERT INTO DIM_ELE
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO DIM_CON
 	VALUES ("c4d26bbc-1324-432c-8ae0-f913207030ca",
-	5261.000000,
+	4380.000000,
 	3312.000000,
 	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
 INSERT INTO DIM_CON
@@ -75,13 +75,38 @@ INSERT INTO DIM_CON
 	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
 INSERT INTO DIM_CON
 	VALUES ("d518fa19-ede1-4b48-9052-564495225ca1",
-	4380.000000,
-	3543.000000,
+	4374.000000,
+	3361.000000,
 	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
 INSERT INTO DIM_CON
 	VALUES ("cf0a9bd2-d247-4876-a48e-2d2fdaa813d0",
 	4100.000000,
 	3276.000000,
+	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
+INSERT INTO DIM_CON
+	VALUES ("cacaa279-aa71-48c9-984e-ec33b442a144",
+	4100.000000,
+	3286.000000,
+	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
+INSERT INTO DIM_CON
+	VALUES ("11f2cdaa-4b40-43a8-b3ec-8df9245e8a76",
+	4100.000000,
+	3275.000000,
+	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
+INSERT INTO DIM_CON
+	VALUES ("ed3c3864-85f7-4c64-90e7-8d48537cff87",
+	4100.000000,
+	3323.000000,
+	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
+INSERT INTO DIM_CON
+	VALUES ("fe727bd4-05eb-434f-b82d-2525d0640d6b",
+	4100.000000,
+	3335.000000,
+	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
+INSERT INTO DIM_CON
+	VALUES ("c4b8f7a6-d3cb-407a-8d14-1c7c27c13852",
+	4380.000000,
+	3120.000000,
 	"b7a70c82-16c6-4c1f-ac69-6e69f9647b28");
 INSERT INTO GD_GE
 	VALUES ("f599a59d-20a5-48cf-9b29-3c6754f813bf",
@@ -123,8 +148,8 @@ INSERT INTO DIM_ND
 	0.000000,
 	"644a99f0-91b3-47b2-a627-dcdb7d2911e2");
 INSERT INTO DIM_GE
-	VALUES (0.000000,
-	0.000000,
+	VALUES (4365.000000,
+	3272.000000,
 	"644a99f0-91b3-47b2-a627-dcdb7d2911e2",
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO DIM_ELE
@@ -158,14 +183,14 @@ INSERT INTO GD_LS
 	"006c8999-5b82-47e6-bf9e-7398044a8d05");
 INSERT INTO DIM_WAY
 	VALUES ("006c8999-5b82-47e6-bf9e-7398044a8d05",
-	5336.000000,
+	4455.000000,
 	3312.000000,
 	"f599a59d-20a5-48cf-9b29-3c6754f813bf",
 	"00000000-0000-0000-0000-000000000000",
 	"3d5414ff-ccce-4f9b-9176-d4e5d2e5c5ba");
 INSERT INTO DIM_WAY
 	VALUES ("3d5414ff-ccce-4f9b-9176-d4e5d2e5c5ba",
-	5261.000000,
+	4380.000000,
 	3312.000000,
 	"f599a59d-20a5-48cf-9b29-3c6754f813bf",
 	"00000000-0000-0000-0000-000000000000",
@@ -223,8 +248,8 @@ INSERT INTO DIM_ND
 	0.000000,
 	"00fe9afe-37d2-4b32-aff4-e1ed4f393fca");
 INSERT INTO DIM_GE
-	VALUES (0.000000,
-	0.000000,
+	VALUES (4007.000000,
+	3128.000000,
 	"00fe9afe-37d2-4b32-aff4-e1ed4f393fca",
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO DIM_ELE
@@ -323,8 +348,8 @@ INSERT INTO DIM_ND
 	0.000000,
 	"840b2822-8a5d-45e7-b03e-6b54656b8df5");
 INSERT INTO DIM_GE
-	VALUES (0.000000,
-	0.000000,
+	VALUES (4315.000000,
+	3388.000000,
 	"840b2822-8a5d-45e7-b03e-6b54656b8df5",
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO DIM_ELE
@@ -358,15 +383,15 @@ INSERT INTO GD_LS
 	"951a40c6-ab57-4c5f-88c9-5404e32d93be");
 INSERT INTO DIM_WAY
 	VALUES ("951a40c6-ab57-4c5f-88c9-5404e32d93be",
-	4378.000000,
-	3612.000000,
+	4372.000000,
+	3430.000000,
 	"05c09a3e-7bbb-42b1-8962-02c2689fcd5c",
 	"00000000-0000-0000-0000-000000000000",
 	"7964afa3-6483-4cb3-a7fa-047f92e0bf9c");
 INSERT INTO DIM_WAY
 	VALUES ("7964afa3-6483-4cb3-a7fa-047f92e0bf9c",
-	4380.000000,
-	3543.000000,
+	4374.000000,
+	3361.000000,
 	"05c09a3e-7bbb-42b1-8962-02c2689fcd5c",
 	"00000000-0000-0000-0000-000000000000",
 	"00000000-0000-0000-0000-000000000000");
@@ -384,105 +409,305 @@ INSERT INTO DIM_ED
 	"00000000-0000-0000-0000-000000000000",
 	"05c09a3e-7bbb-42b1-8962-02c2689fcd5c");
 INSERT INTO GD_GE
-	VALUES ("9ce5092c-f86a-43a1-9cda-c27b44e27f10",
+	VALUES ("60cd3a77-84ca-4e14-b473-a8d59e0acec1",
 	"7f809d3c-e7fc-4870-b150-a3d705c43e28",
-	"69d6d30e-92a0-4b9a-a6fb-0976e3310826",
-	93,
+	"c0d32426-c76c-4393-9198-f9163056d019",
+	94,
 	0,
-	'Roverplus101::Hw Library::Arduino 101 Board::Arduino 101::Port6::BLE');
+	'Roverplus101::Hw Library::Arduino 101 Board::Arduino 101::Port1::BLE HW SW');
 INSERT INTO GD_CON
-	VALUES ("9ce5092c-f86a-43a1-9cda-c27b44e27f10",
+	VALUES ("60cd3a77-84ca-4e14-b473-a8d59e0acec1",
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO GD_CTXT
-	VALUES ("6102307a-b51e-4f50-8a3c-294124377586",
-	"9ce5092c-f86a-43a1-9cda-c27b44e27f10",
-	2,
-	0.000000,
-	0.000000);
-INSERT INTO DIM_ND
-	VALUES (0.000000,
-	0.000000,
-	"6102307a-b51e-4f50-8a3c-294124377586");
-INSERT INTO DIM_GE
-	VALUES (0.000000,
-	0.000000,
-	"6102307a-b51e-4f50-8a3c-294124377586",
-	"00000000-0000-0000-0000-000000000000");
-INSERT INTO DIM_ELE
-	VALUES ("6102307a-b51e-4f50-8a3c-294124377586",
-	0,
-	"00000000-0000-0000-0000-000000000000");
-INSERT INTO GD_CTXT
-	VALUES ("6f1cc999-9f43-4647-85d5-d24aee8ab496",
-	"9ce5092c-f86a-43a1-9cda-c27b44e27f10",
-	3,
-	0.000000,
-	0.000000);
-INSERT INTO DIM_ND
-	VALUES (0.000000,
-	0.000000,
-	"6f1cc999-9f43-4647-85d5-d24aee8ab496");
-INSERT INTO DIM_GE
-	VALUES (0.000000,
-	0.000000,
-	"6f1cc999-9f43-4647-85d5-d24aee8ab496",
-	"00000000-0000-0000-0000-000000000000");
-INSERT INTO DIM_ELE
-	VALUES ("6f1cc999-9f43-4647-85d5-d24aee8ab496",
-	0,
-	"00000000-0000-0000-0000-000000000000");
-INSERT INTO GD_CTXT
-	VALUES ("4ed58626-5cd3-4d16-93b0-d0c520970815",
-	"9ce5092c-f86a-43a1-9cda-c27b44e27f10",
+	VALUES ("570a5929-8361-4db5-a639-723565bfb896",
+	"60cd3a77-84ca-4e14-b473-a8d59e0acec1",
 	1,
 	0.000000,
 	0.000000);
 INSERT INTO DIM_ND
 	VALUES (0.000000,
 	0.000000,
-	"4ed58626-5cd3-4d16-93b0-d0c520970815");
+	"570a5929-8361-4db5-a639-723565bfb896");
 INSERT INTO DIM_GE
 	VALUES (0.000000,
 	0.000000,
-	"4ed58626-5cd3-4d16-93b0-d0c520970815",
+	"570a5929-8361-4db5-a639-723565bfb896",
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO DIM_ELE
-	VALUES ("4ed58626-5cd3-4d16-93b0-d0c520970815",
+	VALUES ("570a5929-8361-4db5-a639-723565bfb896",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("47439672-4aa9-4a2e-b3d3-91842810847d",
+	"60cd3a77-84ca-4e14-b473-a8d59e0acec1",
+	3,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"47439672-4aa9-4a2e-b3d3-91842810847d");
+INSERT INTO DIM_GE
+	VALUES (4016.000000,
+	3235.000000,
+	"47439672-4aa9-4a2e-b3d3-91842810847d",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("47439672-4aa9-4a2e-b3d3-91842810847d",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("9ace25ea-26c6-4139-b7ce-4c49b945066c",
+	"60cd3a77-84ca-4e14-b473-a8d59e0acec1",
+	2,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"9ace25ea-26c6-4139-b7ce-4c49b945066c");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"9ace25ea-26c6-4139-b7ce-4c49b945066c",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("9ace25ea-26c6-4139-b7ce-4c49b945066c",
 	0,
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO GD_LS
-	VALUES ("29a4296d-81bb-42eb-b620-073350a30254",
-	"9ce5092c-f86a-43a1-9cda-c27b44e27f10",
+	VALUES ("315f4fd2-fda6-4fd2-b414-fa1bbbd4ac8e",
+	"60cd3a77-84ca-4e14-b473-a8d59e0acec1",
 	"00000000-0000-0000-0000-000000000000",
-	"370166d7-4fe9-4ecd-a9e5-5aa7bcdc0652",
-	"e6555cec-a05b-4c8d-92b7-8442db4b9552");
+	"d1c9d0da-2751-4baa-99c7-26cd6b837882",
+	"4a098466-c5a3-4176-bbd3-b144c0339096");
 INSERT INTO DIM_WAY
-	VALUES ("e6555cec-a05b-4c8d-92b7-8442db4b9552",
-	4025.000000,
-	3276.000000,
-	"9ce5092c-f86a-43a1-9cda-c27b44e27f10",
-	"00000000-0000-0000-0000-000000000000",
-	"370166d7-4fe9-4ecd-a9e5-5aa7bcdc0652");
-INSERT INTO DIM_WAY
-	VALUES ("370166d7-4fe9-4ecd-a9e5-5aa7bcdc0652",
+	VALUES ("d1c9d0da-2751-4baa-99c7-26cd6b837882",
 	4100.000000,
-	3276.000000,
-	"9ce5092c-f86a-43a1-9cda-c27b44e27f10",
+	3275.000000,
+	"60cd3a77-84ca-4e14-b473-a8d59e0acec1",
 	"00000000-0000-0000-0000-000000000000",
 	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_WAY
+	VALUES ("4a098466-c5a3-4176-bbd3-b144c0339096",
+	4031.000000,
+	3275.000000,
+	"60cd3a77-84ca-4e14-b473-a8d59e0acec1",
+	"00000000-0000-0000-0000-000000000000",
+	"d1c9d0da-2751-4baa-99c7-26cd6b837882");
 INSERT INTO DIM_GE
 	VALUES (0.000000,
 	0.000000,
-	"9ce5092c-f86a-43a1-9cda-c27b44e27f10",
+	"60cd3a77-84ca-4e14-b473-a8d59e0acec1",
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO DIM_ELE
-	VALUES ("9ce5092c-f86a-43a1-9cda-c27b44e27f10",
+	VALUES ("60cd3a77-84ca-4e14-b473-a8d59e0acec1",
 	0,
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO DIM_ED
-	VALUES ("cf0a9bd2-d247-4876-a48e-2d2fdaa813d0",
+	VALUES ("11f2cdaa-4b40-43a8-b3ec-8df9245e8a76",
 	"00000000-0000-0000-0000-000000000000",
-	"9ce5092c-f86a-43a1-9cda-c27b44e27f10");
+	"60cd3a77-84ca-4e14-b473-a8d59e0acec1");
+INSERT INTO GD_GE
+	VALUES ("897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	"7f809d3c-e7fc-4870-b150-a3d705c43e28",
+	"e6f2e5ff-44d8-44f4-b2d6-bf5d237f6973",
+	93,
+	0,
+	'Roverplus101::Hw Library::Arduino 101 Board::Arduino 101::Port2::BLE');
+INSERT INTO GD_CON
+	VALUES ("897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("7eaf8ff4-b297-4fa9-a208-ace14e80a356",
+	"897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	1,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"7eaf8ff4-b297-4fa9-a208-ace14e80a356");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"7eaf8ff4-b297-4fa9-a208-ace14e80a356",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("7eaf8ff4-b297-4fa9-a208-ace14e80a356",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("bdd383a3-19b1-4d0b-abeb-106b3d3f9e03",
+	"897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	3,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"bdd383a3-19b1-4d0b-abeb-106b3d3f9e03");
+INSERT INTO DIM_GE
+	VALUES (4016.000000,
+	3295.000000,
+	"bdd383a3-19b1-4d0b-abeb-106b3d3f9e03",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("bdd383a3-19b1-4d0b-abeb-106b3d3f9e03",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("1eda5bac-06c7-4190-bf9b-061dbf29d7c9",
+	"897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	2,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"1eda5bac-06c7-4190-bf9b-061dbf29d7c9");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"1eda5bac-06c7-4190-bf9b-061dbf29d7c9",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("1eda5bac-06c7-4190-bf9b-061dbf29d7c9",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_LS
+	VALUES ("e57d19fc-6824-4fef-ad75-ec7837837e51",
+	"897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	"00000000-0000-0000-0000-000000000000",
+	"a7fb15e0-2f12-4fcb-9034-c769a5c38e9c",
+	"b7614678-b0e8-4a53-8c0c-ceff61326225");
+INSERT INTO DIM_WAY
+	VALUES ("a7fb15e0-2f12-4fcb-9034-c769a5c38e9c",
+	4100.000000,
+	3335.000000,
+	"897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	"00000000-0000-0000-0000-000000000000",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_WAY
+	VALUES ("b7614678-b0e8-4a53-8c0c-ceff61326225",
+	4031.000000,
+	3335.000000,
+	"897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	"00000000-0000-0000-0000-000000000000",
+	"a7fb15e0-2f12-4fcb-9034-c769a5c38e9c");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("897cbf44-ab68-4c68-83a1-23cbecd334b9",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ED
+	VALUES ("fe727bd4-05eb-434f-b82d-2525d0640d6b",
+	"00000000-0000-0000-0000-000000000000",
+	"897cbf44-ab68-4c68-83a1-23cbecd334b9");
+INSERT INTO GD_GE
+	VALUES ("9898456a-300d-455b-9c03-af055a8e100f",
+	"7f809d3c-e7fc-4870-b150-a3d705c43e28",
+	"745f1f3a-07e7-45a5-a3cb-77870c513d4b",
+	93,
+	0,
+	'Roverplus101::Hw Library::Arduino 101 Board::Arduino 101::Port3::USB');
+INSERT INTO GD_CON
+	VALUES ("9898456a-300d-455b-9c03-af055a8e100f",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("f293c8c0-30fe-4788-b277-f76bb1ab1584",
+	"9898456a-300d-455b-9c03-af055a8e100f",
+	1,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"f293c8c0-30fe-4788-b277-f76bb1ab1584");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"f293c8c0-30fe-4788-b277-f76bb1ab1584",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("f293c8c0-30fe-4788-b277-f76bb1ab1584",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("fb9b5e34-6563-4fd8-8dbe-60f3eb1137b0",
+	"9898456a-300d-455b-9c03-af055a8e100f",
+	3,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"fb9b5e34-6563-4fd8-8dbe-60f3eb1137b0");
+INSERT INTO DIM_GE
+	VALUES (4367.000000,
+	3080.000000,
+	"fb9b5e34-6563-4fd8-8dbe-60f3eb1137b0",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("fb9b5e34-6563-4fd8-8dbe-60f3eb1137b0",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("fe666615-9d9b-48f6-902c-1b7b8792e2d8",
+	"9898456a-300d-455b-9c03-af055a8e100f",
+	2,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"fe666615-9d9b-48f6-902c-1b7b8792e2d8");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"fe666615-9d9b-48f6-902c-1b7b8792e2d8",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("fe666615-9d9b-48f6-902c-1b7b8792e2d8",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_LS
+	VALUES ("80e3aa61-834e-4633-a77e-768b00c4579c",
+	"9898456a-300d-455b-9c03-af055a8e100f",
+	"00000000-0000-0000-0000-000000000000",
+	"979b82af-4921-4279-864e-30e1255a0974",
+	"a93de847-27e9-4321-849a-ee746a700850");
+INSERT INTO DIM_WAY
+	VALUES ("979b82af-4921-4279-864e-30e1255a0974",
+	4380.000000,
+	3120.000000,
+	"9898456a-300d-455b-9c03-af055a8e100f",
+	"00000000-0000-0000-0000-000000000000",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_WAY
+	VALUES ("a93de847-27e9-4321-849a-ee746a700850",
+	4455.000000,
+	3120.000000,
+	"9898456a-300d-455b-9c03-af055a8e100f",
+	"00000000-0000-0000-0000-000000000000",
+	"979b82af-4921-4279-864e-30e1255a0974");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"9898456a-300d-455b-9c03-af055a8e100f",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("9898456a-300d-455b-9c03-af055a8e100f",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ED
+	VALUES ("c4b8f7a6-d3cb-407a-8d14-1c7c27c13852",
+	"00000000-0000-0000-0000-000000000000",
+	"9898456a-300d-455b-9c03-af055a8e100f");
 INSERT INTO DIM_DIA
 	VALUES ("7f809d3c-e7fc-4870-b150-a3d705c43e28",
 	'',
@@ -543,6 +768,352 @@ INSERT INTO C_EP_PROXY
 	'A0',
 	'',
 	'../Arduino 101 PinOut/Arduino 101 PinOut.xtuml');
+INSERT INTO SPR_PEP
+	VALUES ("0aa7917e-b0f4-4ced-b806-462b1cea48be",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("0aa7917e-b0f4-4ced-b806-462b1cea48be",
+	'DI',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("abc9e940-3cad-40c5-abbd-f2e7882116c1",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("abc9e940-3cad-40c5-abbd-f2e7882116c1",
+	'A0',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("1157e9a7-0a80-42e8-8c40-00fd873a63ff",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("1157e9a7-0a80-42e8-8c40-00fd873a63ff",
+	'DI',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("4cb27392-0499-4a02-89f0-3d5c2637fc55",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("4cb27392-0499-4a02-89f0-3d5c2637fc55",
+	'A0',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("5768c516-0055-4ea4-8b09-7da6ac8b9246",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("5768c516-0055-4ea4-8b09-7da6ac8b9246",
+	'DI',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("8254839c-449d-4e84-9bf5-95435496cf03",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("8254839c-449d-4e84-9bf5-95435496cf03",
+	'A0',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("07dc473f-cb6c-42a9-92c7-4790a07dc09c",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("04295284-d2fe-45ad-9f08-4239e6efba07",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("8d864cfd-f951-4f52-a962-8fe9768c15e5",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("68aa8306-9a66-471c-84af-225c57fd1c0d",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("1d675c88-6413-496f-9b0f-6b3faa146258",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("c9db92af-7c03-4825-bf97-504d2bfc3b38",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("0793ca1f-0438-4ed9-8b38-c802ddc7c1d9",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("8408df3c-1ee9-478d-8c2b-5733bf0df70e",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("10de914c-4521-4653-b3b7-7e88eb0ce24d",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("10de914c-4521-4653-b3b7-7e88eb0ce24d",
+	'DI',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("e7149805-a10f-4f85-9d24-4de3bdf8b3c3",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("e7149805-a10f-4f85-9d24-4de3bdf8b3c3",
+	'A0',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("f0f7056f-c9d9-4533-9dfd-8dee39520b00",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("f0f7056f-c9d9-4533-9dfd-8dee39520b00",
+	'DI',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("32cef1a0-56b6-4c49-bfe1-6649e6779180",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("32cef1a0-56b6-4c49-bfe1-6649e6779180",
+	'A0',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("0339a1d9-7409-434a-8fe6-f248bbb904ce",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("0339a1d9-7409-434a-8fe6-f248bbb904ce",
+	'DI',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("7e20bee8-944b-425e-9b1b-51e63f6776fe",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("7e20bee8-944b-425e-9b1b-51e63f6776fe",
+	'A0',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("02176687-f046-410a-acfa-3fcfd48b2be4",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("02176687-f046-410a-acfa-3fcfd48b2be4",
+	'DI',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("9d068ad4-288b-4af5-bef3-98c02bf72421",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PS
+	VALUES ("9d068ad4-288b-4af5-bef3-98c02bf72421",
+	'A0',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("ac352251-fa83-4629-ab93-aee6646039d3",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("152ecff0-4ebf-419e-9b1f-a13c0e7461d9",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("7f3b3d11-55b0-4f4e-879a-54906ad84968",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("631e79df-0687-4ec4-a3da-d623f432070f",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("e57a1ce5-ffcd-40e7-8b5a-7a15a3d053b2",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("2c2d2c25-8568-467d-859e-7c80be75cc15",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("8d5b33bd-9809-46b4-b63a-eafa47bf9a1b",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("3751d5a5-4254-4199-882a-1f6f48f541c1",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("909fd5c4-5b05-4a41-bfbd-b491b125c50a",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("c631b5b4-7f83-45fd-a864-59b6f4c63e18",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("5aac5e0e-ccbd-4152-a254-35df44048462",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("917dcc4a-dbd5-43c4-9bbb-bf17e1f6a0c8",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("81079113-c11b-4429-bef4-7d2fd3d2e66c",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("402c4add-b43d-4760-9f65-5ccc14802ccf",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("820589cd-a27d-48b0-9cde-939c9fa2660b",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("e300e516-5313-498e-b3bb-4f5d0b073eec",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("a62d6fbb-8ac4-47d7-b5a6-739b564b8fd6",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("79b33bf7-15c4-4cd5-9664-791e2917657a",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("b83816db-75b3-4a95-a8bf-dcd05a60a970",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("852b1c29-6aef-4f60-abf0-a950f663bbe5",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("a1b4d6d0-9ce2-4074-951c-20433f888a30",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("e787ee50-f252-47fc-8ef2-5cb85aaa9916",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("45fddb37-9141-4a04-8396-a4869dc69aca",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("bb7e2eb9-eaf5-4ec4-9feb-f2b0c15260e5",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("adeacf70-eafa-4d8d-b52b-0be83ff576c4",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("1caa2ce7-39a4-4534-b1f9-d1d5656bc279",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("5312320d-cf6f-4286-a098-1ad7ff8f6674",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("7bf789cf-6339-4450-b81e-f5cc735fff7c",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("21c6a056-6d63-4c0e-adf1-2827310c88c4",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("d2535bdf-9ce9-46d3-ab75-a699deb5bfc7",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("9a61df1e-73f8-40ef-9295-5024ef86013e",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("3920a3f1-734e-4d65-a92b-61c3204945ea",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("ee52ccb1-4d5b-44c8-a4ad-4dec96c6ee92",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("ddd77f70-658e-4f7b-a5e8-dbe5f34b8dd1",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("f293bc55-e862-4a64-a426-11a6657750dd",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("77d02636-8ee0-48c1-b6cf-181bad8aa1b1",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("16583e47-cf17-4db7-bd25-cae6758e039d",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("8d94050e-b2c3-4a3a-9dce-3a598649054b",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("5564276e-a2ee-447e-ad65-eb6beca8a71b",
+	"a57bad39-1622-46e2-8248-a8237b6b353d",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
+INSERT INTO SPR_PEP
+	VALUES ("50432b39-d73e-4c29-8055-9f8a180bef45",
+	"785b4d69-d470-457e-a566-a44eb19e4a5f",
+	"3b3bd729-818c-4d9b-bd9a-ba72ad08b4c0");
 INSERT INTO C_I_PROXY
 	VALUES ("f39b4f29-c195-4a42-b053-01fb7004de75",
 	"00000000-0000-0000-0000-000000000000",
@@ -722,6 +1293,1322 @@ You do not need to call pinMode() to set the pin as an output before calling ana
 The analogWrite function has nothing to do with the analog pins or the analogRead function.
 ',
 	'../../../Interface Library/Hardware Software Interface/Hw SW Pin Interfaces/Hw SW Pin Interfaces.xtuml');
+INSERT INTO SPR_PEP
+	VALUES ("1d54c49f-2579-4d59-b643-f3e7dc380072",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("1d54c49f-2579-4d59-b643-f3e7dc380072",
+	'micros',
+	'Returns the number of microseconds since the Arduino board began running the current program. This number will overflow (go back to zero), after approximately 70 minutes. On 16 MHz Arduino boards (e.g. Duemilanove and Nano), this function has a resolution of four microseconds (i.e. the value returned is always a multiple of four). On 8 MHz Arduino boards (e.g. the LilyPad), this function has a resolution of eight microseconds. 
+
+Note: there are 1,000 microseconds in a millisecond and 1,000,000 microseconds in a second.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("e65a696a-079a-424a-90a9-4f47d6f0d827",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("e65a696a-079a-424a-90a9-4f47d6f0d827",
+	'analogReference',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("45d6212e-8856-44dc-a2c2-f8967f90cbfa",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("45d6212e-8856-44dc-a2c2-f8967f90cbfa",
+	'pinMode',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("b86aa7ef-d2d2-4cfa-86dc-f6112133c14c",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("b86aa7ef-d2d2-4cfa-86dc-f6112133c14c",
+	'digitalRead',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("9f01583a-a8dc-4129-bf29-7710b2bb8b5e",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("9f01583a-a8dc-4129-bf29-7710b2bb8b5e",
+	'digitalWrite',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("1957f8c5-f85d-4b27-946c-d37ce549eac7",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("1957f8c5-f85d-4b27-946c-d37ce549eac7",
+	'analogRead',
+	'Reads the value from the specified analog pin. The Arduino board contains a 6 channel (8 channels on the Mini and Nano, 16 on the Mega), 10-bit analog to digital converter. This means that it will map input voltages between 0 and 5 volts into integer values between 0 and 1023. This yields a resolution between readings of: 5 volts / 1024 units or, .0049 volts (4.9 mV) per unit. The input range and resolution can be changed using analogReference(). 
+
+It takes about 100 microseconds (0.0001 s) to read an analog input, so the maximum reading rate is about 10,000 times a second. 
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("3c7f86c2-cab1-4609-9072-82e26f8aee9a",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("3c7f86c2-cab1-4609-9072-82e26f8aee9a",
+	'analogWrite',
+	'Writes an analog value (PWM wave) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to analogWrite(), the pin will generate a steady square wave of the specified duty cycle until the next call to analogWrite() (or a call to digitalRead() or digitalWrite() on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz. Pins 3 and 11 on the Leonardo also run at 980 Hz. 
+
+On most Arduino boards (those with the ATmega168 or ATmega328), this function works on pins 3, 5, 6, 9, 10, and 11. On the Arduino Mega, it works on pins 2 - 13 and 44 - 46. Older Arduino boards with an ATmega8 only support analogWrite() on pins 9, 10, and 11. 
+
+The Arduino Due supports analogWrite() on pins 2 through 13, plus pins DAC0 and DAC1. Unlike the PWM pins, DAC0 and DAC1 are Digital to Analog converters, and act as true analog outputs. 
+
+You do not need to call pinMode() to set the pin as an output before calling analogWrite(). 
+
+The analogWrite function has nothing to do with the analog pins or the analogRead function.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("e1b70eb3-ae6c-4305-b3ef-f6e31dae77d8",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("e1b70eb3-ae6c-4305-b3ef-f6e31dae77d8",
+	'micros',
+	'Returns the number of microseconds since the Arduino board began running the current program. This number will overflow (go back to zero), after approximately 70 minutes. On 16 MHz Arduino boards (e.g. Duemilanove and Nano), this function has a resolution of four microseconds (i.e. the value returned is always a multiple of four). On 8 MHz Arduino boards (e.g. the LilyPad), this function has a resolution of eight microseconds. 
+
+Note: there are 1,000 microseconds in a millisecond and 1,000,000 microseconds in a second.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("aec0d0fa-8639-47ba-aa75-5a6a39b8236f",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("aec0d0fa-8639-47ba-aa75-5a6a39b8236f",
+	'analogReference',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("134c9a09-b255-46d2-92ee-22289e7b0c6a",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("134c9a09-b255-46d2-92ee-22289e7b0c6a",
+	'pinMode',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("4005d983-3e35-496f-8059-21483e80ba46",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("4005d983-3e35-496f-8059-21483e80ba46",
+	'digitalRead',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("93795805-32d1-4125-88df-fa97f31e3a35",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("93795805-32d1-4125-88df-fa97f31e3a35",
+	'digitalWrite',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("6d1d25b3-5b47-4c5e-8380-ec328b33a597",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("6d1d25b3-5b47-4c5e-8380-ec328b33a597",
+	'analogRead',
+	'Reads the value from the specified analog pin. The Arduino board contains a 6 channel (8 channels on the Mini and Nano, 16 on the Mega), 10-bit analog to digital converter. This means that it will map input voltages between 0 and 5 volts into integer values between 0 and 1023. This yields a resolution between readings of: 5 volts / 1024 units or, .0049 volts (4.9 mV) per unit. The input range and resolution can be changed using analogReference(). 
+
+It takes about 100 microseconds (0.0001 s) to read an analog input, so the maximum reading rate is about 10,000 times a second. 
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("8aa1f096-2aaf-4918-b812-6b817fd2f5cb",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("8aa1f096-2aaf-4918-b812-6b817fd2f5cb",
+	'analogWrite',
+	'Writes an analog value (PWM wave) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to analogWrite(), the pin will generate a steady square wave of the specified duty cycle until the next call to analogWrite() (or a call to digitalRead() or digitalWrite() on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz. Pins 3 and 11 on the Leonardo also run at 980 Hz. 
+
+On most Arduino boards (those with the ATmega168 or ATmega328), this function works on pins 3, 5, 6, 9, 10, and 11. On the Arduino Mega, it works on pins 2 - 13 and 44 - 46. Older Arduino boards with an ATmega8 only support analogWrite() on pins 9, 10, and 11. 
+
+The Arduino Due supports analogWrite() on pins 2 through 13, plus pins DAC0 and DAC1. Unlike the PWM pins, DAC0 and DAC1 are Digital to Analog converters, and act as true analog outputs. 
+
+You do not need to call pinMode() to set the pin as an output before calling analogWrite(). 
+
+The analogWrite function has nothing to do with the analog pins or the analogRead function.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("7b55e5df-d0bc-4865-a603-cd2cdd0ad25b",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("7b55e5df-d0bc-4865-a603-cd2cdd0ad25b",
+	'micros',
+	'Returns the number of microseconds since the Arduino board began running the current program. This number will overflow (go back to zero), after approximately 70 minutes. On 16 MHz Arduino boards (e.g. Duemilanove and Nano), this function has a resolution of four microseconds (i.e. the value returned is always a multiple of four). On 8 MHz Arduino boards (e.g. the LilyPad), this function has a resolution of eight microseconds. 
+
+Note: there are 1,000 microseconds in a millisecond and 1,000,000 microseconds in a second.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("b60c36b8-d463-4a05-8536-ead9ea45a347",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("b60c36b8-d463-4a05-8536-ead9ea45a347",
+	'analogReference',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("fd5aa37e-bc64-4c7d-a05e-bd3e1e49c755",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("fd5aa37e-bc64-4c7d-a05e-bd3e1e49c755",
+	'pinMode',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("80553885-9073-4180-bc18-6d1733bee3b0",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("80553885-9073-4180-bc18-6d1733bee3b0",
+	'digitalRead',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("9ed2d372-78e3-4245-9347-94fd59e81b7a",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("9ed2d372-78e3-4245-9347-94fd59e81b7a",
+	'digitalWrite',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("fab27cd8-58f9-4bb5-9635-5b349db74abb",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("fab27cd8-58f9-4bb5-9635-5b349db74abb",
+	'analogRead',
+	'Reads the value from the specified analog pin. The Arduino board contains a 6 channel (8 channels on the Mini and Nano, 16 on the Mega), 10-bit analog to digital converter. This means that it will map input voltages between 0 and 5 volts into integer values between 0 and 1023. This yields a resolution between readings of: 5 volts / 1024 units or, .0049 volts (4.9 mV) per unit. The input range and resolution can be changed using analogReference(). 
+
+It takes about 100 microseconds (0.0001 s) to read an analog input, so the maximum reading rate is about 10,000 times a second. 
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("f2cf40c8-6227-4431-a270-9aaeb1780381",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("f2cf40c8-6227-4431-a270-9aaeb1780381",
+	'analogWrite',
+	'Writes an analog value (PWM wave) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to analogWrite(), the pin will generate a steady square wave of the specified duty cycle until the next call to analogWrite() (or a call to digitalRead() or digitalWrite() on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz. Pins 3 and 11 on the Leonardo also run at 980 Hz. 
+
+On most Arduino boards (those with the ATmega168 or ATmega328), this function works on pins 3, 5, 6, 9, 10, and 11. On the Arduino Mega, it works on pins 2 - 13 and 44 - 46. Older Arduino boards with an ATmega8 only support analogWrite() on pins 9, 10, and 11. 
+
+The Arduino Due supports analogWrite() on pins 2 through 13, plus pins DAC0 and DAC1. Unlike the PWM pins, DAC0 and DAC1 are Digital to Analog converters, and act as true analog outputs. 
+
+You do not need to call pinMode() to set the pin as an output before calling analogWrite(). 
+
+The analogWrite function has nothing to do with the analog pins or the analogRead function.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("32b57aab-67f1-4583-a89d-dca93edab43d",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("1c2fd615-50c6-4f9f-8099-9a1a3db95893",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("4ec4a682-d85e-409e-99fc-40cb304a8270",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("35c1f587-07f8-4121-9c7e-8e155624eb81",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("10d60be8-a85e-4b25-a9df-56a2f41ad031",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("fa974a8c-7354-4408-8604-9ccfbbb654ef",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("97bd5612-be20-4414-8083-d44797f54739",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("76e07fa2-2a14-4fd2-b3b9-55d46db43569",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("4796d045-4a0e-46d4-9f24-642e04ef883f",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("ef79c850-7de6-47f7-9a92-541457524d59",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("7d88406f-058b-4c39-8451-dc6ff071feda",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("5ab19c49-aa35-4832-aa3f-e717c35987b8",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("99fb8c74-8505-4bda-8c0f-4b9755069194",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("5ac49400-5ee6-4ee9-8522-aac29a2e64b2",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("d674bc0f-7a57-42db-9340-07547558599b",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("31523bb9-5610-4818-bd38-b409815da4e5",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("4e967e33-ffa2-408c-9c69-f56b05cd2a0d",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("e1e7c262-a633-4f42-bef3-f8cfd94f0201",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("8a2c6ec2-af35-405a-bf15-4f98fcc71958",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("bed70b66-901b-4a6c-bf44-3adb7d4b6477",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("04ad0637-c4a9-416a-b561-338f1d36eb8e",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("336ac974-93ea-49a3-9355-a0f2ec700387",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("2a1e6ba0-8758-4d3d-8cfa-8a921550ce11",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("1445068c-6657-4c69-881a-e0d56155fe5f",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("146d7614-52a4-42e9-a2f6-0d0c61ef95ab",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("e6f2cfb9-f94a-4bc8-bea2-50bf8a280a38",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("ae07d0c0-e921-4ed9-bac7-e8e1fa6036b9",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("7cab1304-ebe5-4e49-b913-c148064f872e",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("912bf6e7-da63-4b64-9fda-9d5a9dc82bbc",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("912bf6e7-da63-4b64-9fda-9d5a9dc82bbc",
+	'micros',
+	'Returns the number of microseconds since the Arduino board began running the current program. This number will overflow (go back to zero), after approximately 70 minutes. On 16 MHz Arduino boards (e.g. Duemilanove and Nano), this function has a resolution of four microseconds (i.e. the value returned is always a multiple of four). On 8 MHz Arduino boards (e.g. the LilyPad), this function has a resolution of eight microseconds. 
+
+Note: there are 1,000 microseconds in a millisecond and 1,000,000 microseconds in a second.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("1c27410d-c4b7-4558-80a5-3d392eba5633",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("1c27410d-c4b7-4558-80a5-3d392eba5633",
+	'analogReference',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("5f365aff-cd87-4e30-9135-7c969172f0ce",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("5f365aff-cd87-4e30-9135-7c969172f0ce",
+	'pinMode',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("ad791bf3-9938-4d3b-bc3e-8055d1d88285",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("ad791bf3-9938-4d3b-bc3e-8055d1d88285",
+	'digitalRead',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("0db8144d-5d39-48ae-af40-bfb626a8b100",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("0db8144d-5d39-48ae-af40-bfb626a8b100",
+	'digitalWrite',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("1ae6333c-8c7e-46e5-b26b-8d92c28651e9",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("1ae6333c-8c7e-46e5-b26b-8d92c28651e9",
+	'analogRead',
+	'Reads the value from the specified analog pin. The Arduino board contains a 6 channel (8 channels on the Mini and Nano, 16 on the Mega), 10-bit analog to digital converter. This means that it will map input voltages between 0 and 5 volts into integer values between 0 and 1023. This yields a resolution between readings of: 5 volts / 1024 units or, .0049 volts (4.9 mV) per unit. The input range and resolution can be changed using analogReference(). 
+
+It takes about 100 microseconds (0.0001 s) to read an analog input, so the maximum reading rate is about 10,000 times a second. 
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("b6481b06-bd1e-4733-898a-052ca244fdef",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("b6481b06-bd1e-4733-898a-052ca244fdef",
+	'analogWrite',
+	'Writes an analog value (PWM wave) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to analogWrite(), the pin will generate a steady square wave of the specified duty cycle until the next call to analogWrite() (or a call to digitalRead() or digitalWrite() on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz. Pins 3 and 11 on the Leonardo also run at 980 Hz. 
+
+On most Arduino boards (those with the ATmega168 or ATmega328), this function works on pins 3, 5, 6, 9, 10, and 11. On the Arduino Mega, it works on pins 2 - 13 and 44 - 46. Older Arduino boards with an ATmega8 only support analogWrite() on pins 9, 10, and 11. 
+
+The Arduino Due supports analogWrite() on pins 2 through 13, plus pins DAC0 and DAC1. Unlike the PWM pins, DAC0 and DAC1 are Digital to Analog converters, and act as true analog outputs. 
+
+You do not need to call pinMode() to set the pin as an output before calling analogWrite(). 
+
+The analogWrite function has nothing to do with the analog pins or the analogRead function.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("a2b679c7-5b99-4b3d-b9ea-5dcdcb422871",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("a2b679c7-5b99-4b3d-b9ea-5dcdcb422871",
+	'micros',
+	'Returns the number of microseconds since the Arduino board began running the current program. This number will overflow (go back to zero), after approximately 70 minutes. On 16 MHz Arduino boards (e.g. Duemilanove and Nano), this function has a resolution of four microseconds (i.e. the value returned is always a multiple of four). On 8 MHz Arduino boards (e.g. the LilyPad), this function has a resolution of eight microseconds. 
+
+Note: there are 1,000 microseconds in a millisecond and 1,000,000 microseconds in a second.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("25b4bc34-d06b-43e0-8861-4fae4c482d83",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("25b4bc34-d06b-43e0-8861-4fae4c482d83",
+	'analogReference',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("a33aa2cd-3665-43f6-bbc1-8ab4b9788a35",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("a33aa2cd-3665-43f6-bbc1-8ab4b9788a35",
+	'pinMode',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("541d83e9-6caf-4976-ac12-c2ae3873be6f",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("541d83e9-6caf-4976-ac12-c2ae3873be6f",
+	'digitalRead',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("e44d4013-edfa-4a81-8e02-5eba903b2329",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("e44d4013-edfa-4a81-8e02-5eba903b2329",
+	'digitalWrite',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("69321b80-f60b-4f45-9e9b-3585fa7b3be7",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("69321b80-f60b-4f45-9e9b-3585fa7b3be7",
+	'analogRead',
+	'Reads the value from the specified analog pin. The Arduino board contains a 6 channel (8 channels on the Mini and Nano, 16 on the Mega), 10-bit analog to digital converter. This means that it will map input voltages between 0 and 5 volts into integer values between 0 and 1023. This yields a resolution between readings of: 5 volts / 1024 units or, .0049 volts (4.9 mV) per unit. The input range and resolution can be changed using analogReference(). 
+
+It takes about 100 microseconds (0.0001 s) to read an analog input, so the maximum reading rate is about 10,000 times a second. 
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("9ce1d28f-9df5-484a-a5b2-a9a1d661014b",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("9ce1d28f-9df5-484a-a5b2-a9a1d661014b",
+	'analogWrite',
+	'Writes an analog value (PWM wave) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to analogWrite(), the pin will generate a steady square wave of the specified duty cycle until the next call to analogWrite() (or a call to digitalRead() or digitalWrite() on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz. Pins 3 and 11 on the Leonardo also run at 980 Hz. 
+
+On most Arduino boards (those with the ATmega168 or ATmega328), this function works on pins 3, 5, 6, 9, 10, and 11. On the Arduino Mega, it works on pins 2 - 13 and 44 - 46. Older Arduino boards with an ATmega8 only support analogWrite() on pins 9, 10, and 11. 
+
+The Arduino Due supports analogWrite() on pins 2 through 13, plus pins DAC0 and DAC1. Unlike the PWM pins, DAC0 and DAC1 are Digital to Analog converters, and act as true analog outputs. 
+
+You do not need to call pinMode() to set the pin as an output before calling analogWrite(). 
+
+The analogWrite function has nothing to do with the analog pins or the analogRead function.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("8355b8b7-dba2-461c-afaa-6103ce0ba65d",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("8355b8b7-dba2-461c-afaa-6103ce0ba65d",
+	'micros',
+	'Returns the number of microseconds since the Arduino board began running the current program. This number will overflow (go back to zero), after approximately 70 minutes. On 16 MHz Arduino boards (e.g. Duemilanove and Nano), this function has a resolution of four microseconds (i.e. the value returned is always a multiple of four). On 8 MHz Arduino boards (e.g. the LilyPad), this function has a resolution of eight microseconds. 
+
+Note: there are 1,000 microseconds in a millisecond and 1,000,000 microseconds in a second.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("16a79a3b-5d55-4e97-8886-ef67b30ffd0e",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("16a79a3b-5d55-4e97-8886-ef67b30ffd0e",
+	'analogReference',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("31bbea68-575d-4084-8a91-e9f18db3b3b6",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("31bbea68-575d-4084-8a91-e9f18db3b3b6",
+	'pinMode',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("7e0e3553-0513-406e-b894-5e5ac7cf46f8",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("7e0e3553-0513-406e-b894-5e5ac7cf46f8",
+	'digitalRead',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("37c8aab7-b870-49db-a241-2c57b4adf4c2",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("37c8aab7-b870-49db-a241-2c57b4adf4c2",
+	'digitalWrite',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("024321a3-05b3-4240-885a-a99c5273bf4d",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("024321a3-05b3-4240-885a-a99c5273bf4d",
+	'analogRead',
+	'Reads the value from the specified analog pin. The Arduino board contains a 6 channel (8 channels on the Mini and Nano, 16 on the Mega), 10-bit analog to digital converter. This means that it will map input voltages between 0 and 5 volts into integer values between 0 and 1023. This yields a resolution between readings of: 5 volts / 1024 units or, .0049 volts (4.9 mV) per unit. The input range and resolution can be changed using analogReference(). 
+
+It takes about 100 microseconds (0.0001 s) to read an analog input, so the maximum reading rate is about 10,000 times a second. 
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("5ba284b4-3300-48ec-a08a-cd794741db8d",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("5ba284b4-3300-48ec-a08a-cd794741db8d",
+	'analogWrite',
+	'Writes an analog value (PWM wave) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to analogWrite(), the pin will generate a steady square wave of the specified duty cycle until the next call to analogWrite() (or a call to digitalRead() or digitalWrite() on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz. Pins 3 and 11 on the Leonardo also run at 980 Hz. 
+
+On most Arduino boards (those with the ATmega168 or ATmega328), this function works on pins 3, 5, 6, 9, 10, and 11. On the Arduino Mega, it works on pins 2 - 13 and 44 - 46. Older Arduino boards with an ATmega8 only support analogWrite() on pins 9, 10, and 11. 
+
+The Arduino Due supports analogWrite() on pins 2 through 13, plus pins DAC0 and DAC1. Unlike the PWM pins, DAC0 and DAC1 are Digital to Analog converters, and act as true analog outputs. 
+
+You do not need to call pinMode() to set the pin as an output before calling analogWrite(). 
+
+The analogWrite function has nothing to do with the analog pins or the analogRead function.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("1f42f512-8588-427e-aa5a-cf6a506a8355",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("1f42f512-8588-427e-aa5a-cf6a506a8355",
+	'micros',
+	'Returns the number of microseconds since the Arduino board began running the current program. This number will overflow (go back to zero), after approximately 70 minutes. On 16 MHz Arduino boards (e.g. Duemilanove and Nano), this function has a resolution of four microseconds (i.e. the value returned is always a multiple of four). On 8 MHz Arduino boards (e.g. the LilyPad), this function has a resolution of eight microseconds. 
+
+Note: there are 1,000 microseconds in a millisecond and 1,000,000 microseconds in a second.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("361a764e-d811-4e9d-8233-b1d44fae2e13",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("361a764e-d811-4e9d-8233-b1d44fae2e13",
+	'analogReference',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("517c6c09-b7a3-429a-8216-7fda3f8fe569",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("517c6c09-b7a3-429a-8216-7fda3f8fe569",
+	'pinMode',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("4f562422-fc66-4cc4-a772-1d6d81ba7bce",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("4f562422-fc66-4cc4-a772-1d6d81ba7bce",
+	'digitalRead',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("fac16d73-0a3d-4ab4-95d8-da87c9c20c8c",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("fac16d73-0a3d-4ab4-95d8-da87c9c20c8c",
+	'digitalWrite',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("61ffa7cb-6823-4f01-ba8f-0f0d925f1cc7",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("61ffa7cb-6823-4f01-ba8f-0f0d925f1cc7",
+	'analogRead',
+	'Reads the value from the specified analog pin. The Arduino board contains a 6 channel (8 channels on the Mini and Nano, 16 on the Mega), 10-bit analog to digital converter. This means that it will map input voltages between 0 and 5 volts into integer values between 0 and 1023. This yields a resolution between readings of: 5 volts / 1024 units or, .0049 volts (4.9 mV) per unit. The input range and resolution can be changed using analogReference(). 
+
+It takes about 100 microseconds (0.0001 s) to read an analog input, so the maximum reading rate is about 10,000 times a second. 
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("7f575dbf-6aeb-495c-92ce-0955d2f1946e",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PO
+	VALUES ("7f575dbf-6aeb-495c-92ce-0955d2f1946e",
+	'analogWrite',
+	'Writes an analog value (PWM wave) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to analogWrite(), the pin will generate a steady square wave of the specified duty cycle until the next call to analogWrite() (or a call to digitalRead() or digitalWrite() on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz. Pins 3 and 11 on the Leonardo also run at 980 Hz. 
+
+On most Arduino boards (those with the ATmega168 or ATmega328), this function works on pins 3, 5, 6, 9, 10, and 11. On the Arduino Mega, it works on pins 2 - 13 and 44 - 46. Older Arduino boards with an ATmega8 only support analogWrite() on pins 9, 10, and 11. 
+
+The Arduino Due supports analogWrite() on pins 2 through 13, plus pins DAC0 and DAC1. Unlike the PWM pins, DAC0 and DAC1 are Digital to Analog converters, and act as true analog outputs. 
+
+You do not need to call pinMode() to set the pin as an output before calling analogWrite(). 
+
+The analogWrite function has nothing to do with the analog pins or the analogRead function.
+',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("099259a7-e7e6-4c00-b056-8d16f64119c7",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("332efcef-42cc-4605-be99-a732198cf9f5",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("10104c2f-a7f5-434c-928a-077ad4f6c9b8",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("6a1cbf08-c21f-4a99-8362-f91f718d04f6",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("f57e5899-ec46-4929-822d-14f006213fcd",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("c736d297-4ec7-4a09-83b8-e1f8c7f443bb",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("1077b0f6-e106-4a3b-bfe6-b66d45fbf442",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("df4c45da-f685-42f9-a455-bfb0ee3a2191",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("6caa6df2-f254-4f19-8ff1-1d87dcffa063",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("66301af1-02d1-44e2-84af-e520d424eb25",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("f5c1ce4b-9ba7-4d8f-bef6-714a91d2efad",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("f7badd2e-04e3-41d9-a3af-4b3013a134a7",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("438b6b55-16ce-4b81-90da-b9e5407d905c",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("b1487eb2-b7a9-412d-beec-92f937104c0a",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("e081a07a-3ce3-4617-a857-b9ffe58c0868",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("26a1b374-6b2b-4d74-9ef8-c6669fabfe20",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("498362ec-c701-46eb-a006-654593c72841",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("b9061baf-cd27-4743-8e7f-7baf8a5db7de",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("c21824d0-1eb8-4224-9008-bafdbc94aa62",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("21fbfddf-953d-451b-b7b9-5d20492cef8e",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("fed762d6-efa8-4372-b26e-3ef175cecb9b",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("30336e93-bff4-4b8c-af1b-c04ac4d03033",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("20fedae3-e4b3-4f42-8258-cc0cd301a9c3",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("35f2b449-2d85-41df-853a-50d45a21d237",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("2c5e9585-5e07-4364-8a05-2497786e1782",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("889b98f1-191a-4577-97f6-12699784b57a",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("38d55008-913a-4afd-ad0a-988e856ceff5",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("83429e49-b72b-4086-91fe-5ce1b6ed36ab",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("ffb48037-98e5-4dbb-8514-c1d7a35c1494",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("aae6f125-c3a0-421e-ad95-a544b25d6b85",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("b834ec82-e764-4d54-9510-c1d86552fb7a",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("81229bb6-6fc0-4026-811d-9ec0b62e66b6",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("cfda3fde-9ba4-4d54-90d0-da7a0760a162",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("c784d272-af85-43e8-a089-ca047804ff70",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("d5043eb0-003a-4fe4-89f3-70801e265206",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("be1a75e4-03ad-4d9d-8540-5436cca3c334",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("c2cba228-442f-496a-baa6-4a2be64aed76",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("327d8a4d-414a-4960-ae4d-5bda54aad363",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("de5b034f-15dc-4905-b245-f9804f389c27",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("e4f8b2f7-662e-4dcf-8063-47b41174277a",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("fff79ef0-0a43-44ba-8d85-42bcc7323b7f",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("b2547fdf-9e6f-4272-aaa8-4b252cc6fea3",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("6b696643-1977-4338-a804-1f0b6f0d57cc",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("8b83ca40-91b5-4da3-8dc7-73a692ff3896",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("180ed743-1980-4b26-ac76-0d4d34c2912f",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("238ae6cb-cc6f-486c-ad85-88b8a83ebddb",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("8e96c23c-900c-45a9-81ed-89ede3cf7aff",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("5c0f76af-fef2-45ed-ba9f-824b4968f10c",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("f1360189-4827-4ff2-8c56-9483177c9df4",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("0ee9ff3f-0b45-4d9e-a94b-d691db021eb2",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("08d18c4d-b5f6-4e2c-818a-3526c4133d3f",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("31cc834d-f4dd-464f-888b-946c49638f57",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("e3061bbb-805f-4739-91da-cb60bb056e64",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("bada3403-3050-4bc1-9ce0-673c59c73033",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("146ad258-cbb5-4340-b65b-503375540e85",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("760354ee-eae7-4383-a7be-bdcbe0440ffa",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("b6f38265-1247-4c2c-b74e-a7b3c57fe892",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("98b83496-2c6e-43af-b149-ca80bb2c6b9c",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("5255342d-abdc-48e9-8cde-5e4ae117872c",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("0f9e6633-c513-48c5-a7ba-6c652a21f347",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("4c920787-8181-4269-8474-bba2e4abd410",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("f05a2e84-e89b-4516-991c-277252635213",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("64f7b85f-b80d-47d0-9108-de27aabf802e",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("f1f9fe70-ed54-4a73-b664-c12304505175",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("af712504-5f63-4291-b73b-730793f5914c",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("bb6bbf64-78d2-481b-9d49-62ba758d07b8",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("5a41e412-e4e4-4c55-8561-341375598388",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("775ececd-fcbd-4996-9a26-4a4a41aa0e95",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("1fa7aa98-d272-4e8f-85bb-3da45e9fab0a",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("a8218af9-4f69-4d6f-9561-54b177a8c1f6",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("a68bbb7c-6538-4327-bccf-787b993d6b83",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("21e223e1-e069-4e5c-9164-59f8e036c719",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("4a264756-d9f2-4545-938e-c48db17edbd2",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("22d5ee2d-dee5-432f-9782-c97b08b2e06c",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("8986b0c7-09d1-4b3d-b461-e9fe0c4f7dbf",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("835639ba-acac-4fed-9e60-2690cdfc7b1e",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("c275171b-274d-45d1-9ba0-786e42338224",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("ff13e3f6-9e25-4077-a712-c9da3953ff87",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("eb873cc1-1260-4a93-ad31-6af2be130f6b",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("12a78929-2b96-445f-819c-38d49091928b",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("cee83614-face-4cb9-b012-6fe4baa084e4",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("d6e4f27b-d279-463a-9f1c-81bea6d6783e",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("7118cb26-7467-4a6b-8f7d-2619a6641391",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("0d2f1f52-10c8-405b-bb27-f78356b64381",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("2b41ae54-fa31-49bb-9d0e-d15d23cfa96c",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("17117f2a-ab13-466c-8365-3bb339f8d433",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("62b97761-7d48-486b-8327-fb8377274b5b",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("b56f5e7a-672a-46cc-ac4d-29bb2ac36360",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("99d3cfa1-69f7-4f4c-899d-5c7aed6dba4b",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("8c1bdfbe-c869-4f9d-87e6-fcaa5733bb87",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("1d92d547-15ba-4d78-88df-fbb96cf01984",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("efa6972b-fbfd-4128-9d4a-a106ab2428b3",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("fbf21fee-d117-4e04-9c54-5ccd0fa974d1",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("39a02931-9d2f-460f-af00-1628a2c77067",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("a44476e0-63a5-4bc5-917c-6bcefab692f2",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("f12b9a69-b184-465b-a976-117b40615026",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("44a9aab6-962a-4a76-976a-a3dd4c59b096",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("498bd7c8-d247-4449-8493-f26303c8fcf4",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("2de049d1-d97c-4b72-a5c2-57455a74fd25",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("401aeb86-6621-48e0-aafc-36cb2ca8faaf",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("70fa5145-a7d2-4f8f-a16c-bd69c10e85e4",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("461573d6-3ad6-4d04-b66a-3badd48d2a3f",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("a31e2b9d-73f8-4817-821c-8d1da44cb766",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("7d9d9cb2-0ab3-4a8e-92fc-b0127f92f423",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("7007f369-f912-4cb5-9e29-8015676a2619",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("c8a5a1da-e4b2-4f65-892a-c03a4bf02960",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("c762a94b-1153-4497-9985-3f49c7ad89b5",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("0605ad75-bedb-431f-85a2-8b28a50087c6",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("dba7a7b1-e2e5-4dc8-8c95-4da01ef0f356",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("70dddf3a-1993-48de-9986-c0b23f1ae443",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("2b4b8c50-06d4-4ced-9086-71e148f0e092",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("034fb82a-cf83-4c93-ab8b-14b015c0a6b9",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("94f425dc-a2bc-4e5f-b431-ca1180152dc1",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("c2a0d00a-b359-4d5f-83ff-3470b3a85c80",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("e83ea656-0c0e-483c-8af6-137d33b66513",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("3b6d1797-6c31-4b11-b44b-dfd11e0bdcba",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("de72cb22-4a49-4fd7-b97a-120bde8e0f0d",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("0eab4f4c-5d78-4ac7-a71a-0b2f0a96f4f6",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("c4548c3f-de8d-4956-853a-85397e540a4d",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("44745841-fb98-40c9-a84d-ac7fb6fabf06",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("967a48b5-4226-4493-8f79-6bd5b59d9a29",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("de8c8024-4168-4cb9-a3e4-da4741cebe01",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("db64732e-065d-41f1-8d99-082445c4987f",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("2c902d03-017a-4145-95bf-1edec2ab26e8",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("a1354468-32b0-4c54-811f-ad8cdc8e5e71",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("dac0df89-5ea2-484a-ae06-6bbadc5d7a86",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("08fae985-2149-49e8-a0fa-7fe81d33604d",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("ad54effb-1e0d-4cfe-9c0e-a4ec2d77cf5d",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("0bfd897f-237b-4312-a126-be58b539fa55",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("66f123df-7ad1-441b-84b7-a7b00c001478",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("d684b2c6-a093-40b5-b4e6-3da6b6db771b",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("a1071d82-30ef-4cd5-b7c8-5840457ab12f",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("6d806471-4cad-4e34-8ffb-398618dc0ba1",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("134e33b6-9ca1-4642-b5fc-24c305ed1fe6",
+	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("7eba9f03-c3b7-4552-bbbc-8c27d8db19aa",
+	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("47b8ef44-dc46-4dc3-b15c-81b28878cabf",
+	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("3e79df06-d6c5-47b8-b30a-793b4c2f9606",
+	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("4e23be5d-0702-4f82-8a31-3c92ad07ded7",
+	"353561d4-f8d4-4403-9e15-44a736648c4f",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("00043505-ac55-43b5-b453-0dfb27ad7445",
+	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
+INSERT INTO SPR_PEP
+	VALUES ("09402281-9b7c-469f-b70b-3fecb8208bc1",
+	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
+	"013148f6-c901-4c7b-bca5-886ef943c2ef");
 INSERT INTO C_I_PROXY
 	VALUES ("a38e3279-215b-448e-8d22-2c95a8ce6ea2",
 	"00000000-0000-0000-0000-000000000000",
@@ -794,6 +2681,352 @@ INSERT INTO C_EP_PROXY
 	'PowerPositve',
 	'',
 	'../../Power Box/Power/Power.xtuml');
+INSERT INTO SPR_REP
+	VALUES ("d86f0cbf-6b4b-4da3-b636-1fc0563ff72c",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("d86f0cbf-6b4b-4da3-b636-1fc0563ff72c",
+	'Ground',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("0128e59d-48fc-4f6e-8f1d-26b6422c1e80",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("0128e59d-48fc-4f6e-8f1d-26b6422c1e80",
+	'PowerPositve',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("cf58ac55-ac8e-41da-9ef7-b1354b4aeb1c",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("cf58ac55-ac8e-41da-9ef7-b1354b4aeb1c",
+	'Ground',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("339fa7a4-9c01-427c-b9a2-3062df50ede8",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("339fa7a4-9c01-427c-b9a2-3062df50ede8",
+	'PowerPositve',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("3754cc74-6338-44c5-8969-768bef376bcf",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("3754cc74-6338-44c5-8969-768bef376bcf",
+	'Ground',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("131cc585-415d-4ece-8a32-05e971b09b10",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("131cc585-415d-4ece-8a32-05e971b09b10",
+	'PowerPositve',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("3cfe3685-b8bb-4099-a5b5-389358126498",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("ac284c78-93ae-43bd-bc01-cabded6852a6",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("557c9e6e-b57f-476d-82db-db1010bbc25a",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("d5588a12-f8bd-4a13-920e-4f8f25925d15",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("5874bc3b-e2ec-4411-8def-57341bad1d05",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("28e7ebd7-2ab1-4cd3-838d-17e4c68d3d1e",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("9bf1843e-16c5-43d4-bc9a-f9928353e03c",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("23c3d131-ca28-425d-b08c-b658dd085ee1",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("a80c20d8-1d28-4349-b0d2-519b861ac29a",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("a80c20d8-1d28-4349-b0d2-519b861ac29a",
+	'Ground',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("75c11cfc-01b3-44a4-a242-049aa94f796d",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("75c11cfc-01b3-44a4-a242-049aa94f796d",
+	'PowerPositve',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("333e2f65-0c0f-4969-9d40-07c4c1511b22",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("333e2f65-0c0f-4969-9d40-07c4c1511b22",
+	'Ground',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("501e21c2-d73d-456c-967f-3a37410bbfe8",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("501e21c2-d73d-456c-967f-3a37410bbfe8",
+	'PowerPositve',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("283201b0-49cd-4f99-b0af-fcb0fe3411c5",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("283201b0-49cd-4f99-b0af-fcb0fe3411c5",
+	'Ground',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("bd2f41bc-33bc-45c3-afdb-9c5c7b3be8e4",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("bd2f41bc-33bc-45c3-afdb-9c5c7b3be8e4",
+	'PowerPositve',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("2531be70-156c-4ac3-8a28-efbecb3342bd",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("2531be70-156c-4ac3-8a28-efbecb3342bd",
+	'Ground',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("abe22186-82b0-4360-83bb-aabb9558f40e",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_RS
+	VALUES ("abe22186-82b0-4360-83bb-aabb9558f40e",
+	'PowerPositve',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_REP
+	VALUES ("b060cfb7-ad7f-4fee-96a1-38ed2c4e9ac8",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("ad0436e0-1411-4736-8708-f394ef926a32",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("5093ebe3-5ba2-4bde-9344-5fe0d93d6c40",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("e93c3b07-be8e-4938-81ac-6450e09fc9f1",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("72ca872d-cf53-41ab-aa26-217cffb55a41",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("a81bdfbf-e511-424d-9a08-9c412327129f",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("9fe67f23-f12f-46be-87d6-a68c6331c0f2",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("5b53b4cb-b16d-402e-a639-a62bf1b6ea05",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("1bf97c42-2eea-4101-916a-7a9e80014bb8",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("b4bcae82-521a-413e-b616-fbf89d877903",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("1557f0ab-7948-417f-9998-5dca1dedc2f7",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("c5dbb658-d847-4e6b-9dca-af39f8dc1b0b",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("cc9907bd-3588-4327-b832-a92131a9a17e",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("999871b3-72ec-484c-b0af-240daace1995",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("9b8a9d7b-20b1-432f-b554-7f34241e1bcd",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("891322de-553b-4989-9f6a-c7c04ea13caf",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("a35530a6-024c-4047-a8ee-bf28dfd09f25",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("63d1d834-e388-4ac0-b82d-58eaf71a2213",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("6fb221f2-1d8c-43a0-b49a-cafa40b9a800",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("b3a6e2a1-df86-497c-b112-f126aa52b104",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("bb790d3f-f5d0-41e3-be8b-f5332f31c33b",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("4acd6c68-a6c7-456d-bffa-be5ec0a9c4ac",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("93044359-d462-4c93-abbd-1b15bb370f28",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("c2303a20-51af-4423-9af9-094b6a1a84a0",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("82fb19d2-8294-42ce-a1e5-ea6bd5d69f0e",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("294dabb8-7f7c-4247-ac7f-2160012f3d43",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("c478d725-de53-49fa-a39f-727276a5ae4c",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("fad642c5-196f-475f-90f6-0a6472e2237a",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("197d3c9e-8e4f-4ccc-8593-98753fc2b087",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("bebb12b0-a0b0-41a7-a369-4e95f24bf31f",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("f71c0b15-0f30-4947-b7b2-f7e60e1f61f9",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("2c9aedaa-448a-4cc6-823c-0999059c8bf1",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("dc1d2cb1-1585-4f31-8080-0088f7f31a37",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("e5cb469e-145d-47f4-bd1a-db19c1425602",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("70480590-597b-47ac-a10b-0d10bd86c633",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("26333d9e-786d-4aee-a224-2c671382172e",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("f23ff2d4-4b1c-4919-bb70-e036df45137d",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("0737e0ef-2312-473b-94d2-518a43b2f9d1",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("7be912e1-7e5d-4307-aec5-c01b4e2b5e07",
+	"6b44fe91-1787-424d-a08e-cc9a1e05c580",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
+INSERT INTO SPR_REP
+	VALUES ("cc4b2042-af96-4e58-a7b3-be4dbb6ac9d8",
+	"7a741a39-8cc1-44ff-a824-7ad4b297dd89",
+	"3fe973c9-b1aa-417d-af6c-b97602d7092f");
 INSERT INTO C_I_PROXY
 	VALUES ("d2fd8321-e7ef-4295-b9e6-de7be368c85e",
 	"00000000-0000-0000-0000-000000000000",
@@ -801,46 +3034,106 @@ INSERT INTO C_I_PROXY
 	'',
 	'../../Power Box/Power/Power.xtuml');
 INSERT INTO C_PO
-	VALUES ("349601db-da93-4ed0-b843-933da0eafadf",
+	VALUES ("4f9ba040-bee5-4f82-bb64-29d9dded1c8c",
 	"09592909-1f6e-4136-9ac0-ef8f838fcd2a",
-	'Port6',
+	'Port1',
 	0,
-	1);
+	0);
 INSERT INTO C_IR
-	VALUES ("69d6d30e-92a0-4b9a-a6fb-0976e3310826",
-	"0ae94818-6565-48c1-bc8a-2cfb578484af",
+	VALUES ("c0d32426-c76c-4393-9198-f9163056d019",
+	"45a70fe5-72b9-4829-9c44-620ee8d32bc2",
 	"00000000-0000-0000-0000-000000000000",
-	"349601db-da93-4ed0-b843-933da0eafadf");
-INSERT INTO C_R
-	VALUES ("69d6d30e-92a0-4b9a-a6fb-0976e3310826",
-	'BLE',
-	'',
+	"4f9ba040-bee5-4f82-bb64-29d9dded1c8c");
+INSERT INTO C_P
+	VALUES ("c0d32426-c76c-4393-9198-f9163056d019",
+	'BLE HW SW',
 	'Unnamed Interface',
-	'Arduino 101::Port6::BLE');
-INSERT INTO SPR_REP
-	VALUES ("03389bac-5bed-4c9f-8edb-78f987ad6d4d",
-	"89b5d1e9-02f7-4ecc-9750-d017068c5895",
-	"69d6d30e-92a0-4b9a-a6fb-0976e3310826");
-INSERT INTO SPR_RO
-	VALUES ("03389bac-5bed-4c9f-8edb-78f987ad6d4d",
-	'rxCharacteristicWrittern',
+	'',
+	'Arduino 101::Port1::BLE HW SW');
+INSERT INTO SPR_PEP
+	VALUES ("2250295d-afe0-45ac-95bf-f6d420b0496a",
+	"eef75db5-5c22-4959-9281-072e8e0a4d4d",
+	"c0d32426-c76c-4393-9198-f9163056d019");
+INSERT INTO SPR_PS
+	VALUES ("2250295d-afe0-45ac-95bf-f6d420b0496a",
+	'BLEHardware',
 	'',
 	'',
 	3,
 	0);
 INSERT INTO C_EP_PROXY
-	VALUES ("89b5d1e9-02f7-4ecc-9750-d017068c5895",
+	VALUES ("eef75db5-5c22-4959-9281-072e8e0a4d4d",
+	"45a70fe5-72b9-4829-9c44-620ee8d32bc2",
+	-1,
+	'BLEHardware',
+	'',
+	'../../../Interface Library/Hardware Software Interface/BLE HW SW/BLE HW SW.xtuml');
+INSERT INTO SPR_PEP
+	VALUES ("b20946b0-5cb8-4345-8f24-c105544cd49c",
+	"eef75db5-5c22-4959-9281-072e8e0a4d4d",
+	"c0d32426-c76c-4393-9198-f9163056d019");
+INSERT INTO SPR_PS
+	VALUES ("b20946b0-5cb8-4345-8f24-c105544cd49c",
+	'BLEHardware',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO SPR_PEP
+	VALUES ("6c4c2a7e-815c-4fb7-bf26-b2570428d437",
+	"eef75db5-5c22-4959-9281-072e8e0a4d4d",
+	"c0d32426-c76c-4393-9198-f9163056d019");
+INSERT INTO SPR_PEP
+	VALUES ("a7146158-de2b-4446-ab87-eab962d010fe",
+	"eef75db5-5c22-4959-9281-072e8e0a4d4d",
+	"c0d32426-c76c-4393-9198-f9163056d019");
+INSERT INTO C_I_PROXY
+	VALUES ("45a70fe5-72b9-4829-9c44-620ee8d32bc2",
+	"00000000-0000-0000-0000-000000000000",
+	'BLE HW SW',
+	'',
+	'../../../Interface Library/Hardware Software Interface/BLE HW SW/BLE HW SW.xtuml');
+INSERT INTO C_PO
+	VALUES ("0fbc09ea-a17c-48de-8253-b06ad9ccb204",
+	"09592909-1f6e-4136-9ac0-ef8f838fcd2a",
+	'Port2',
+	0,
+	0);
+INSERT INTO C_IR
+	VALUES ("e6f2e5ff-44d8-44f4-b2d6-bf5d237f6973",
+	"0ae94818-6565-48c1-bc8a-2cfb578484af",
+	"dec85686-1b87-45cc-8cf8-892c33c7e25e",
+	"0fbc09ea-a17c-48de-8253-b06ad9ccb204");
+INSERT INTO C_R
+	VALUES ("e6f2e5ff-44d8-44f4-b2d6-bf5d237f6973",
+	'BLE',
+	'',
+	'Unnamed Interface',
+	'Arduino 101::Port2::BLE');
+INSERT INTO SPR_REP
+	VALUES ("5a52103f-be34-47bf-bcfd-02ec4a223e35",
+	"20d1c476-9d75-4521-9152-d84a14e1e58d",
+	"e6f2e5ff-44d8-44f4-b2d6-bf5d237f6973");
+INSERT INTO SPR_RO
+	VALUES ("5a52103f-be34-47bf-bcfd-02ec4a223e35",
+	'blePeripheralConnectHandler',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO C_EP_PROXY
+	VALUES ("20d1c476-9d75-4521-9152-d84a14e1e58d",
 	"0ae94818-6565-48c1-bc8a-2cfb578484af",
 	-1,
-	'rxCharacteristicWrittern',
+	'blePeripheralConnectHandler',
 	'',
 	'../../../Interface Library/BLE/BLE.xtuml');
 INSERT INTO SPR_REP
-	VALUES ("da9a4bcd-7ca4-4e17-b40e-e8728b4ce54a",
+	VALUES ("0f8c8bcf-f5ee-4d88-b741-5dd6947fc66e",
 	"f9cb77d7-aa52-4ffa-b3fc-fc6da2d7d786",
-	"69d6d30e-92a0-4b9a-a6fb-0976e3310826");
+	"e6f2e5ff-44d8-44f4-b2d6-bf5d237f6973");
 INSERT INTO SPR_RO
-	VALUES ("da9a4bcd-7ca4-4e17-b40e-e8728b4ce54a",
+	VALUES ("0f8c8bcf-f5ee-4d88-b741-5dd6947fc66e",
 	'blePeripheralDisconnectHandler',
 	'',
 	'',
@@ -854,21 +3147,21 @@ INSERT INTO C_EP_PROXY
 	'',
 	'../../../Interface Library/BLE/BLE.xtuml');
 INSERT INTO SPR_REP
-	VALUES ("5035497e-9983-4182-931e-9d510cbbe7d3",
-	"20d1c476-9d75-4521-9152-d84a14e1e58d",
-	"69d6d30e-92a0-4b9a-a6fb-0976e3310826");
+	VALUES ("bb2562dc-84ab-49d0-aaef-48e9e578b874",
+	"89b5d1e9-02f7-4ecc-9750-d017068c5895",
+	"e6f2e5ff-44d8-44f4-b2d6-bf5d237f6973");
 INSERT INTO SPR_RO
-	VALUES ("5035497e-9983-4182-931e-9d510cbbe7d3",
-	'blePeripheralConnectHandler',
+	VALUES ("bb2562dc-84ab-49d0-aaef-48e9e578b874",
+	'rxCharacteristicWrittern',
 	'',
 	'',
 	3,
 	0);
 INSERT INTO C_EP_PROXY
-	VALUES ("20d1c476-9d75-4521-9152-d84a14e1e58d",
+	VALUES ("89b5d1e9-02f7-4ecc-9750-d017068c5895",
 	"0ae94818-6565-48c1-bc8a-2cfb578484af",
 	-1,
-	'blePeripheralConnectHandler',
+	'rxCharacteristicWrittern',
 	'',
 	'../../../Interface Library/BLE/BLE.xtuml');
 INSERT INTO C_I_PROXY
@@ -877,47 +3170,73 @@ INSERT INTO C_I_PROXY
 	'BLE',
 	'',
 	'../../../Interface Library/BLE/BLE.xtuml');
+INSERT INTO C_DG_PROXY
+	VALUES ("dec85686-1b87-45cc-8cf8-892c33c7e25e",
+	'-> Arduino 101::Port2::BLE',
+	'../../Rover/Rover.xtuml');
 INSERT INTO C_PO
-	VALUES ("582fcb13-77aa-4cc6-b44b-96d380ce0560",
+	VALUES ("93982a3e-5b56-4651-a34b-ae252bac78fa",
 	"09592909-1f6e-4136-9ac0-ef8f838fcd2a",
-	'Port1',
+	'Port3',
 	0,
 	0);
 INSERT INTO C_IR
-	VALUES ("e4661bfe-c53b-4a71-87fe-20751e5b920f",
-	"45a70fe5-72b9-4829-9c44-620ee8d32bc2",
-	"00000000-0000-0000-0000-000000000000",
-	"582fcb13-77aa-4cc6-b44b-96d380ce0560");
-INSERT INTO C_P
-	VALUES ("e4661bfe-c53b-4a71-87fe-20751e5b920f",
-	'BLE HW SW',
-	'Unnamed Interface',
+	VALUES ("745f1f3a-07e7-45a5-a3cb-77870c513d4b",
+	"01422ef7-5300-489f-8f39-c6fa5a07821f",
+	"3fbd808b-6a82-4db1-804e-774eeab3ca72",
+	"93982a3e-5b56-4651-a34b-ae252bac78fa");
+INSERT INTO C_R
+	VALUES ("745f1f3a-07e7-45a5-a3cb-77870c513d4b",
+	'USB',
 	'',
-	'Arduino 101::Port1::BLE HW SW');
-INSERT INTO SPR_PEP
-	VALUES ("0c66ba52-664d-4d64-9b4e-8919ed717d05",
-	"eef75db5-5c22-4959-9281-072e8e0a4d4d",
-	"e4661bfe-c53b-4a71-87fe-20751e5b920f");
-INSERT INTO SPR_PS
-	VALUES ("0c66ba52-664d-4d64-9b4e-8919ed717d05",
-	'BLEHardware',
+	'Unnamed Interface',
+	'Arduino 101::Port3::USB');
+INSERT INTO SPR_REP
+	VALUES ("b4bdc47c-9bb6-4263-aa97-7f536e094f2b",
+	"2aa25dfe-1aa8-4df5-b40d-0d4bfc9e8280",
+	"745f1f3a-07e7-45a5-a3cb-77870c513d4b");
+INSERT INTO SPR_RO
+	VALUES ("b4bdc47c-9bb6-4263-aa97-7f536e094f2b",
+	'DownloadProgram',
 	'',
 	'',
 	3,
 	0);
 INSERT INTO C_EP_PROXY
-	VALUES ("eef75db5-5c22-4959-9281-072e8e0a4d4d",
-	"45a70fe5-72b9-4829-9c44-620ee8d32bc2",
+	VALUES ("2aa25dfe-1aa8-4df5-b40d-0d4bfc9e8280",
+	"01422ef7-5300-489f-8f39-c6fa5a07821f",
 	-1,
-	'BLEHardware',
+	'DownloadProgram',
 	'',
-	'../../../Interface Library/Hardware Software Interface/BLE HW SW/BLE HW SW.xtuml');
+	'../../../Interface Library/USB/USB.xtuml');
+INSERT INTO SPR_REP
+	VALUES ("0dee46dc-6a3d-4ed1-8298-dd6fb8365203",
+	"3295b761-5085-4bfd-bdce-81b77433c35e",
+	"745f1f3a-07e7-45a5-a3cb-77870c513d4b");
+INSERT INTO SPR_RO
+	VALUES ("0dee46dc-6a3d-4ed1-8298-dd6fb8365203",
+	'RecieveSerialData',
+	'',
+	'',
+	3,
+	0);
+INSERT INTO C_EP_PROXY
+	VALUES ("3295b761-5085-4bfd-bdce-81b77433c35e",
+	"01422ef7-5300-489f-8f39-c6fa5a07821f",
+	-1,
+	'RecieveSerialData',
+	'',
+	'../../../Interface Library/USB/USB.xtuml');
 INSERT INTO C_I_PROXY
-	VALUES ("45a70fe5-72b9-4829-9c44-620ee8d32bc2",
+	VALUES ("01422ef7-5300-489f-8f39-c6fa5a07821f",
 	"00000000-0000-0000-0000-000000000000",
-	'BLE HW SW',
+	'USB',
 	'',
-	'../../../Interface Library/Hardware Software Interface/BLE HW SW/BLE HW SW.xtuml');
+	'../../../Interface Library/USB/USB.xtuml');
+INSERT INTO C_DG_PROXY
+	VALUES ("3fbd808b-6a82-4db1-804e-774eeab3ca72",
+	'-> Arduino 101::Port3::USB',
+	'../../Rover/Rover.xtuml');
 INSERT INTO PE_PE
 	VALUES ("09592909-1f6e-4136-9ac0-ef8f838fcd2a",
 	1,

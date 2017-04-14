@@ -322,11 +322,11 @@ INSERT INTO C_R
 	'Unnamed Interface',
 	'ApplicationSoftware::Port1::Hw SW Pin Interfaces');
 INSERT INTO SPR_REP
-	VALUES ("31716c9f-5151-4393-95b6-495aa5340d65",
+	VALUES ("ce18c0e1-0073-49f6-90e3-a14aed02175a",
 	"e5561ab7-e93f-4c6a-95ef-93c26d328c53",
 	"b2a08141-2b54-4850-9e02-ddeac918c1f7");
 INSERT INTO SPR_RO
-	VALUES ("31716c9f-5151-4393-95b6-495aa5340d65",
+	VALUES ("ce18c0e1-0073-49f6-90e3-a14aed02175a",
 	'analogWrite',
 	'Writes an analog value (PWM wave) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to analogWrite(), the pin will generate a steady square wave of the specified duty cycle until the next call to analogWrite() (or a call to digitalRead() or digitalWrite() on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz. Pins 3 and 11 on the Leonardo also run at 980 Hz. 
 
@@ -358,11 +358,11 @@ The analogWrite function has nothing to do with the analog pins or the analogRea
 ',
 	'../../Interface Library/Hardware Software Interface/Hw SW Pin Interfaces/Hw SW Pin Interfaces.xtuml');
 INSERT INTO SPR_REP
-	VALUES ("9eebfe63-c149-4ed8-a105-df8d0e04a3af",
+	VALUES ("ab9cd10c-62d8-4c2b-8e4d-a9ddbd0c0761",
 	"1e9c908b-ef57-49ac-94f3-d1d8b6ffa046",
 	"b2a08141-2b54-4850-9e02-ddeac918c1f7");
 INSERT INTO SPR_RO
-	VALUES ("9eebfe63-c149-4ed8-a105-df8d0e04a3af",
+	VALUES ("ab9cd10c-62d8-4c2b-8e4d-a9ddbd0c0761",
 	'analogRead',
 	'Reads the value from the specified analog pin. The Arduino board contains a 6 channel (8 channels on the Mini and Nano, 16 on the Mega), 10-bit analog to digital converter. This means that it will map input voltages between 0 and 5 volts into integer values between 0 and 1023. This yields a resolution between readings of: 5 volts / 1024 units or, .0049 volts (4.9 mV) per unit. The input range and resolution can be changed using analogReference(). 
 
@@ -382,11 +382,11 @@ It takes about 100 microseconds (0.0001 s) to read an analog input, so the maxim
 ',
 	'../../Interface Library/Hardware Software Interface/Hw SW Pin Interfaces/Hw SW Pin Interfaces.xtuml');
 INSERT INTO SPR_REP
-	VALUES ("8cdf603e-db1c-47e1-8943-455ecb171a7a",
+	VALUES ("fe3ffbf0-38ea-4301-88a7-86d78750914a",
 	"353561d4-f8d4-4403-9e15-44a736648c4f",
 	"b2a08141-2b54-4850-9e02-ddeac918c1f7");
 INSERT INTO SPR_RO
-	VALUES ("8cdf603e-db1c-47e1-8943-455ecb171a7a",
+	VALUES ("fe3ffbf0-38ea-4301-88a7-86d78750914a",
 	'digitalWrite',
 	'',
 	'',
@@ -400,11 +400,11 @@ INSERT INTO C_EP_PROXY
 	'',
 	'../../Interface Library/Hardware Software Interface/Hw SW Pin Interfaces/Hw SW Pin Interfaces.xtuml');
 INSERT INTO SPR_REP
-	VALUES ("27dc8f58-f073-4db6-9776-3828e1defa8b",
+	VALUES ("7c882ea4-a851-4c84-bab4-b6184d6a5bec",
 	"4f856ff9-c811-4cc5-a90a-f8ea836258f2",
 	"b2a08141-2b54-4850-9e02-ddeac918c1f7");
 INSERT INTO SPR_RO
-	VALUES ("27dc8f58-f073-4db6-9776-3828e1defa8b",
+	VALUES ("7c882ea4-a851-4c84-bab4-b6184d6a5bec",
 	'digitalRead',
 	'',
 	'',
@@ -418,11 +418,11 @@ INSERT INTO C_EP_PROXY
 	'',
 	'../../Interface Library/Hardware Software Interface/Hw SW Pin Interfaces/Hw SW Pin Interfaces.xtuml');
 INSERT INTO SPR_REP
-	VALUES ("e2ef1a4d-7287-4202-83db-d6f44309bff5",
+	VALUES ("bb3346c1-1d5c-43f8-8d11-acfed5103ede",
 	"66a48aa8-c247-4f3c-a760-7f4da41169c3",
 	"b2a08141-2b54-4850-9e02-ddeac918c1f7");
 INSERT INTO SPR_RO
-	VALUES ("e2ef1a4d-7287-4202-83db-d6f44309bff5",
+	VALUES ("bb3346c1-1d5c-43f8-8d11-acfed5103ede",
 	'pinMode',
 	'',
 	'',
@@ -436,11 +436,11 @@ INSERT INTO C_EP_PROXY
 	'',
 	'../../Interface Library/Hardware Software Interface/Hw SW Pin Interfaces/Hw SW Pin Interfaces.xtuml');
 INSERT INTO SPR_REP
-	VALUES ("f3ea1ba7-b09f-4c7d-b972-2e065a608d70",
+	VALUES ("ffd5e4f9-50eb-4d09-8d36-05c7f1bfdf1b",
 	"7f81bde2-f1d5-4a76-9a30-5ec4e42c6dce",
 	"b2a08141-2b54-4850-9e02-ddeac918c1f7");
 INSERT INTO SPR_RO
-	VALUES ("f3ea1ba7-b09f-4c7d-b972-2e065a608d70",
+	VALUES ("ffd5e4f9-50eb-4d09-8d36-05c7f1bfdf1b",
 	'analogReference',
 	'',
 	'',
@@ -454,11 +454,11 @@ INSERT INTO C_EP_PROXY
 	'',
 	'../../Interface Library/Hardware Software Interface/Hw SW Pin Interfaces/Hw SW Pin Interfaces.xtuml');
 INSERT INTO SPR_REP
-	VALUES ("e17a5277-c0a3-49a6-a23d-25d01e827773",
+	VALUES ("83436802-b2a8-4bd2-881d-653e8691b217",
 	"2be33a5d-e6a8-435b-b325-e1cfe5b8fb61",
 	"b2a08141-2b54-4850-9e02-ddeac918c1f7");
 INSERT INTO SPR_RO
-	VALUES ("e17a5277-c0a3-49a6-a23d-25d01e827773",
+	VALUES ("83436802-b2a8-4bd2-881d-653e8691b217",
 	'micros',
 	'Returns the number of microseconds since the Arduino board began running the current program. This number will overflow (go back to zero), after approximately 70 minutes. On 16 MHz Arduino boards (e.g. Duemilanove and Nano), this function has a resolution of four microseconds (i.e. the value returned is always a multiple of four). On 8 MHz Arduino boards (e.g. the LilyPad), this function has a resolution of eight microseconds. 
 
@@ -514,11 +514,11 @@ INSERT INTO C_R
 	'Unnamed Interface',
 	'ApplicationSoftware::Port2::BLE HW SW');
 INSERT INTO SPR_REP
-	VALUES ("a0f83fea-4676-43a5-ad3e-b31855e2ee88",
+	VALUES ("85ce000d-52e1-4a09-b1f9-4de44ffb6aa4",
 	"eef75db5-5c22-4959-9281-072e8e0a4d4d",
 	"43de624e-0b8f-46da-8c60-352c1d95235e");
 INSERT INTO SPR_RS
-	VALUES ("a0f83fea-4676-43a5-ad3e-b31855e2ee88",
+	VALUES ("85ce000d-52e1-4a09-b1f9-4de44ffb6aa4",
 	'BLEHardware',
 	'',
 	'',
